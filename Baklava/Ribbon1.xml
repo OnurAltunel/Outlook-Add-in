@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab idMso="TabAddIns">
+              <group id="group1" label="Gondermek istediginizi secin">                
+                 
+                  <button id="baklavabuton" size ="large"       label="Baklava " 
+                          onAction="BaklavaButonu"    getImage="Baklavaimage"/>                                                                   
+                  <button id="caybuton"      size ="large"      label="Cay "     
+                          onAction="CayButonu"        getImage="Cayimage"    />                    
+                  <button id="kahvebuton"   size ="large"       label="Kahve "    
+                          onAction="KahveButonu"      getImage="Kahveimage"  />                   
+                  <button id="lattebuton"   size ="large"       label="Latte "    
+                          onAction="LatteButonu"      getImage="Latteimage"  />                  
+              </group>    
+              <group id ="group2" label="Ayarlar">
+                <button id="AyarButonu" size ="large"       label="Ayarlar"
+                        onAction="AyarButonu" getImage="settings" />
+              </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>

@@ -1,0 +1,15 @@
+C:\Users\onura\source\repos\Baklava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\onura\source\repos\Baklava\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.csproj.AssemblyReference.cache
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.Properties.Resources.resources
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.csproj.GenerateResource.cache
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.csproj.CopyComplete
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.baklavaformu.resources
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.MailSettings.resources
+C:\Users\onura\source\repos\Baklava\bin\Debug\Baklava.dll
+C:\Users\onura\source\repos\Baklava\bin\Debug\Baklava.pdb
+C:\Users\onura\source\repos\Baklava\bin\Debug\Baklava.dll.manifest
+C:\Users\onura\source\repos\Baklava\bin\Debug\Baklava.vsto
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.dll
+C:\Users\onura\source\repos\Baklava\obj\Debug\Baklava.pdb
